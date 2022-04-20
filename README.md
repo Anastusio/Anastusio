@@ -1,5 +1,5 @@
 ![banner](https://i.imgur.com/GTnncUU.png)
-<h1 align ="center">Ciao,sono Anastusioh</h1>
+<h1 align ="center">Ciao,sono Anas</h1>
 <h3 align = "center"><strong>Il mio git hub personale👩‍💻 </h3>
   
 <p align="center">
