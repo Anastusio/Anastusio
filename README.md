@@ -15,7 +15,7 @@
 <div align = left width = 50%>
 <h2 style="font-size:30px"><b> 🙋🏻‍♂️ Qualacosa su di me <b></h2>
 <ul>
-<li>Sono un piccolo youtuber che gioca ai videogiochi</li>
+<li>Sono un piccolo youtuber che gli piace il design e l'editing/animazione</li>
 <li>mi piace molto usare il computer💻</li>
 <li>A sono anche abbastanza bravo a fare il designer</li>
 <li>E so editare molto bene</li>
