@@ -1,5 +1,5 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Anastusio%20Profile%20👨‍💻&width=1000&height=300)](https://github.com/Anastusio)
-<h1 align ="center">Ciao,sono Anas <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"> </h1>
+<h1 align ="center">Ciao,sono Luca <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"> </h1>
 <h3 align = "center"><strong>Il mio github personale👩‍💻 </h3>
   
 <p align="center">
@@ -17,7 +17,6 @@
 <ul>
 <li>Sono un piccolo programmatore che gli piace il desing e l'editing/animazione</li>
 <li>mi piace creare siti wbe infatti ne ho creato uno <a href="https://anastusioh.pages.dev/"> eccolo </a></li>
-<li>A sono anche abbastanza nel personalizzare windows </li>
 <ul>
 </div>
 <br>
